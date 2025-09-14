@@ -34,11 +34,11 @@
 ---
 
 🔹 How to Run the Project
-- Open the project folder.
-- Run the Flask app (press Ctrl+F5).
-- A web interface will open.
-- Upload a potato leaf image.
-- Get the result on the screen.
+-- Open the project folder.
+-- Run the Flask app (press Ctrl+F5).
+-- A web interface will open.
+-- Upload a potato leaf image.
+-- Get the result on the screen.
 ---
 
 🔹 Folder Rules (Important)
